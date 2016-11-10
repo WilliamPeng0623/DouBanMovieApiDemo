@@ -1,0 +1,212 @@
+{
+  "count": 3,
+  "start": 5,
+  "total": 35,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.5,
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "动画"
+      ],
+      "title": "蜡笔小新：梦境世界大突击",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1048689/",
+          "avatars": {
+            "small": "http://img7.doubanio.com/img/celebrity/small/25830.jpg",
+            "large": "http://img7.doubanio.com/img/celebrity/large/25830.jpg",
+            "medium": "http://img7.doubanio.com/img/celebrity/medium/25830.jpg"
+          },
+          "name": "矢岛晶子",
+          "id": "1048689"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1007835/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name": "楢桥美纪",
+          "id": "1007835"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1028837/",
+          "avatars": {
+            "small": "http://img7.doubanio.com/img/celebrity/small/5770.jpg",
+            "large": "http://img7.doubanio.com/img/celebrity/large/5770.jpg",
+            "medium": "http://img7.doubanio.com/img/celebrity/medium/5770.jpg"
+          },
+          "name": "藤原启治",
+          "id": "1028837"
+        }
+      ],
+      "collect_count": 2240,
+      "original_title": "クレヨンしんちゃん 爆睡!ユメミーワールド大突撃",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1344924/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name": "高桥涉",
+          "id": "1344924"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2393770821.jpg",
+        "large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2393770821.jpg",
+        "medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2393770821.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26660834/",
+      "id": "26660834"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.2,
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "title": "湄公河行动",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274319/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/49047.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/49047.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/49047.jpg"
+          },
+          "name": "张涵予",
+          "id": "1274319"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1013782/",
+          "avatars": {
+            "small": "http://img7.doubanio.com/img/celebrity/small/1368156632.65.jpg",
+            "large": "http://img7.doubanio.com/img/celebrity/large/1368156632.65.jpg",
+            "medium": "http://img7.doubanio.com/img/celebrity/medium/1368156632.65.jpg"
+          },
+          "name": "彭于晏",
+          "id": "1013782"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1274640/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/5979.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/5979.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/5979.jpg"
+          },
+          "name": "孙淳",
+          "id": "1274640"
+        }
+      ],
+      "collect_count": 213812,
+      "original_title": "湄公河行动",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1275075/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/1372934445.18.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/1372934445.18.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/1372934445.18.jpg"
+          },
+          "name": "林超贤",
+          "id": "1275075"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2380677316.jpg",
+        "large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2380677316.jpg",
+        "medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2380677316.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25815034/",
+      "id": "25815034"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.7,
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "title": "机械师2：复活",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1049484/",
+          "avatars": {
+            "small": "http://img7.doubanio.com/img/celebrity/small/424.jpg",
+            "large": "http://img7.doubanio.com/img/celebrity/large/424.jpg",
+            "medium": "http://img7.doubanio.com/img/celebrity/medium/424.jpg"
+          },
+          "name": "杰森·斯坦森",
+          "id": "1049484"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1004861/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/37927.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/37927.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/37927.jpg"
+          },
+          "name": "杰西卡·阿尔芭",
+          "id": "1004861"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1047994/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/259.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/259.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/259.jpg"
+          },
+          "name": "汤米·李·琼斯",
+          "id": "1047994"
+        }
+      ],
+      "collect_count": 27614,
+      "original_title": "Mechanic: Resurrection",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1027653/",
+          "avatars": {
+            "small": "http://img7.doubanio.com/img/celebrity/small/9882.jpg",
+            "large": "http://img7.doubanio.com/img/celebrity/large/9882.jpg",
+            "medium": "http://img7.doubanio.com/img/celebrity/medium/9882.jpg"
+          },
+          "name": "丹尼斯·甘塞尔",
+          "id": "1027653"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2385311728.jpg",
+        "large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2385311728.jpg",
+        "medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2385311728.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25825412/",
+      "id": "25825412"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}
